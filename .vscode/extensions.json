@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "coenraads.bracket-pair-colorizer",
+        "eamodio.gitlens",
+        "oderwat.indent-rainbow",
+        "ms-python.python",
+        "vscode-icons-team.vscode-icons",
+        "zhuangtongfa.material-theme"
+    ]
+}

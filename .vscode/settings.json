@@ -1,0 +1,22 @@
+{
+    "workbench.colorTheme": "One Dark Pro",
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.editor.highlightModifiedTabs": true,
+    "window.zoomLevel": 0,
+    "explorer.incrementalNaming": "smart",
+    "explorer.confirmDelete": false,
+    "editor.fontFamily": "Menlo, Consolas, DejaVu Sans Mono, monospace",
+    "editor.fontWeight": "bold",
+    "editor.fontSize": 14,
+    "editor.cursorStyle": "line",
+    "editor.cursorBlinking": "smooth",
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.formatOnSave": false,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "vsicons.dontShowNewVersionMessage": true,
+    "vsicons.projectDetection.autoReload": true,
+    "git.confirmSync": false,
+    "git.autoRepositoryDetection": true,
+}
